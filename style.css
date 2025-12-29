@@ -316,7 +316,11 @@ footer{
   .service-card{
     width: 90%;
   }
-
+  #butt{
+     padding : 15px;
+     width : 40%;
+  }  
 
 }
+
 
