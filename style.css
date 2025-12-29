@@ -319,8 +319,11 @@ footer{
   #butt{
      padding : 15px;
      width : 40%;
+    font-size:small;
+    font-weight: bolder;      
   }  
 
 }
+
 
 
