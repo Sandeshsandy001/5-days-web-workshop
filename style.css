@@ -299,7 +299,7 @@ footer{
    }
    .home-text{
     text-align: center;
-    padding-bottom: 20px;
+
    }
 
    .home-image{
@@ -314,5 +314,6 @@ footer{
   .service-card{
     width: 90%;
   }
+
 
 }
